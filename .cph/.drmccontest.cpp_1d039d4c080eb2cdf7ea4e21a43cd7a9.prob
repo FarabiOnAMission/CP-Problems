@@ -1,0 +1,1 @@
+{"name":"Local: drmccontest","url":"f:\\Projects\\Problems\\drmccontest.cpp","tests":[{"id":1760197529875,"input":"1\n5\nabcde\n0 3 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2","output":"acde"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\drmccontest.cpp","group":"local","local":true}

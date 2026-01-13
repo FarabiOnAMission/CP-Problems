@@ -1,0 +1,1 @@
+{"name":"Local: RanaVaiAssignment","url":"f:\\Projects\\Problems\\RanaVaiAssignment.cpp","tests":[{"id":1762361637203,"input":"COME\nGONE\nHOMES","output":"4376\r\n9386\r\n13762\r\nPOSSIBLE WAYS: 8\r\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\RanaVaiAssignment.cpp","group":"local","local":true}

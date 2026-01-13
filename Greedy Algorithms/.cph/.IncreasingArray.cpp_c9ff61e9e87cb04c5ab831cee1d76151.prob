@@ -1,0 +1,1 @@
+{"name":"Local: IncreasingArray","url":"f:\\Projects\\Problems\\Greedy Algorithms\\IncreasingArray.cpp","tests":[{"id":1754733734677,"input":"5\n3 2 5 1 7","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\Greedy Algorithms\\IncreasingArray.cpp","group":"local","local":true}

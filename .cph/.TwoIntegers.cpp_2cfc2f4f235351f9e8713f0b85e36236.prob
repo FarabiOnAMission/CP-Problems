@@ -1,0 +1,1 @@
+{"name":"Local: TwoIntegers","url":"f:\\Projects\\Problems\\TwoIntegers.cpp","tests":[{"id":1759069165473,"input":"3 3 ","output":"-1"},{"id":1759069171851,"input":"8 6","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\TwoIntegers.cpp","group":"local","local":true}

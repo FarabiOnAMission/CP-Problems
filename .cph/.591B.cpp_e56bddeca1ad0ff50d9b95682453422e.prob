@@ -1,0 +1,1 @@
+{"name":"Local: 591B","url":"f:\\Projects\\Problems\\591B.cpp","tests":[{"id":1761279894177,"input":"6 1\npolice\np m\n","output":"molice"},{"id":1761279967119,"input":"11 6\nabacabadaba\na b\nb c\na d\ne g\nf a\nb b\n","output":"cdcbcdcfcdc\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\591B.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1294C","url":"f:\\Projects\\Problems\\1294C.cpp","tests":[{"id":1756443484632,"input":"5\n64\n32\n97\n2\n12345\n","output":"YES\n2 4 8 \nNO\nNO\nNO\nYES\n3 5 823 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1294C.cpp","group":"local","local":true}

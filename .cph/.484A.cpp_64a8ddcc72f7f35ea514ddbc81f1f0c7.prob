@@ -1,0 +1,1 @@
+{"name":"Local: 484A","url":"f:\\Projects\\Problems\\484A.cpp","tests":[{"id":1759425803094,"input":"3\n1 2\n2 4\n1 10\n\n","output":"1\n3\n7\n"},{"id":1759425842974,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\484A.cpp","group":"local","local":true}

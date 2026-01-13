@@ -1,0 +1,1 @@
+{"name":"Local: 1766C","url":"f:\\Projects\\Problems\\1766C.cpp","tests":[{"id":1763275667643,"input":"6\n3\nWBB\nBBW\n1\nB\nB\n5\nBWBWB\nBBBBB\n2\nBW\nWB\n5\nBBBBW\nBWBBB\n6\nBWBBWB\nBBBBBB\n","output":"YES\nYES\nNO\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1766C.cpp","group":"local","local":true}

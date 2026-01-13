@@ -1,0 +1,1 @@
+{"name":"Local: 2Dsort","url":"f:\\Projects\\Problems\\Sorting\\2Dsort.cpp","tests":[{"id":1754627499725,"input":"1\n5\n3 4\n-1 2\n5 -3\n3 3\n-1 -2\n\n","output":"-1 2\n-1 -2\n3 4\n3 3\n5 -3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\Sorting\\2Dsort.cpp","group":"local","local":true}

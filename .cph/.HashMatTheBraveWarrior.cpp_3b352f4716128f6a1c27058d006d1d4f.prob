@@ -1,0 +1,1 @@
+{"name":"Local: HashMatTheBraveWarrior","url":"f:\\Projects\\Problems\\HashMatTheBraveWarrior.cpp","tests":[{"id":1759068420150,"input":"10 12\n11 30\n100 350","output":"2\n19\n250"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\HashMatTheBraveWarrior.cpp","group":"local","local":true}

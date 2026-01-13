@@ -1,0 +1,1 @@
+{"name":"Local: DigitQueries","url":"f:\\Projects\\Problems\\DigitQueries.cpp","tests":[{"id":1759088207257,"input":"3\n7\n19\n12\n","output":"7\n4\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\DigitQueries.cpp","group":"local","local":true}

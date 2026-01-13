@@ -1,0 +1,1 @@
+{"name":"Local: 1713C","url":"f:\\Projects\\Problems\\1713C.cpp","tests":[{"id":1761545036419,"input":"3\n3\n4\n7\n","output":"1 0 2 \n0 3 2 1 \n1 0 2 6 5 4 3 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1713C.cpp","group":"local","local":true}

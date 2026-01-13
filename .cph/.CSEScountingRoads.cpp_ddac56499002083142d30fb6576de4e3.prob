@@ -1,0 +1,1 @@
+{"name":"Local: CSEScountingRoads","url":"f:\\Projects\\Problems\\CSEScountingRoads.cpp","tests":[{"id":1759604414445,"input":"5 8\n########\n#..#...#\n####.#.#\n#..#...#\n########","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\CSEScountingRoads.cpp","group":"local","local":true}

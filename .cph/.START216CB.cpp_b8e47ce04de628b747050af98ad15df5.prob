@@ -1,0 +1,1 @@
+{"name":"Local: START216CB","url":"f:\\Projects\\Problems\\START216CB.cpp","tests":[{"id":1765377237657,"input":"3\n2\n5 10\n3\n1 3 2\n5\n100 98 97 99 97","output":"15\n4\n195"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\START216CB.cpp","group":"local","local":true}

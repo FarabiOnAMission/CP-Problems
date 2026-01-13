@@ -1,0 +1,1 @@
+{"name":"Local: 455A","url":"f:\\Projects\\Problems\\455A.cpp","tests":[{"id":1763179587524,"input":"2\n1 2\n","output":"2"},{"id":1763179596899,"input":"3\n1 2 3\n","output":"4"},{"id":1763179608462,"input":"9\n1 2 1 3 2 2 2 2 3\n","output":"10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\455A.cpp","group":"local","local":true}

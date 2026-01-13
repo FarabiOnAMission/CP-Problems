@@ -1,0 +1,1 @@
+{"name":"Local: 456B","url":"f:\\Projects\\Problems\\456B.cpp","tests":[{"id":1759588728066,"input":"4\n","output":"4"},{"id":1759588736022,"input":"124356983594583453458888889\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\456B.cpp","group":"local","local":true}

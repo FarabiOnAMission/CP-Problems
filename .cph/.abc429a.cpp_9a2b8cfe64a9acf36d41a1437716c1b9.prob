@@ -1,0 +1,1 @@
+{"name":"Local: abc429a","url":"f:\\Projects\\Problems\\abc429a.cpp","tests":[{"id":1761393848648,"input":"5 3","output":"OK\nOK\nOK\nToo Many Requests\nToo Many Requests\n"},{"id":1761393859386,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\abc429a.cpp","group":"local","local":true}

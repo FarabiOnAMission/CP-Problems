@@ -1,0 +1,1 @@
+{"name":"Local: arc_061a","url":"f:\\Projects\\Problems\\arc_061a.cpp","tests":[{"id":1759465455357,"input":"125","output":"176"},{"id":1759466380473,"input":"9999999999\n","output":"12656242944\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\arc_061a.cpp","group":"local","local":true}

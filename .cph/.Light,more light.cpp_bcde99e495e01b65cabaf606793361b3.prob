@@ -1,0 +1,1 @@
+{"name":"Local: Light,more light","url":"f:\\Projects\\Problems\\Light,more light.cpp","tests":[{"id":1759074907723,"input":"3\n6241\n8191\n0\n","output":"no\nyes\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\Light,more light.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1015B","url":"f:\\Projects\\Problems\\1015B.cpp","tests":[{"id":1761889310792,"input":"6\nabcdef\nabdfec\n","output":""},{"id":1761889320543,"input":"4\nabcd\naccd\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1015B.cpp","group":"local","local":true}

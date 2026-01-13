@@ -1,0 +1,1 @@
+{"name":"Local: 2156B","url":"f:\\Projects\\Problems\\2156B.cpp","tests":[{"id":1761318941488,"input":"3\n2 2\nBA\n3 4\n1 1\nB\n20\n6 4\nBAABBA\n2 8 32 95\n","output":"2\n3\n5\n2\n5\n8\n11\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\2156B.cpp","group":"local","local":true}

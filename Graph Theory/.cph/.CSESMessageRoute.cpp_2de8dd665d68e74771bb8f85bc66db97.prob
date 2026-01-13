@@ -1,0 +1,1 @@
+{"name":"Local: CSESMessageRoute","url":"f:\\Projects\\Problems\\Graph Theory\\CSESMessageRoute.cpp","tests":[{"id":1759728967374,"input":"5 5\n1 2\n1 3\n1 4\n2 3\n5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\Graph Theory\\CSESMessageRoute.cpp","group":"local","local":true}

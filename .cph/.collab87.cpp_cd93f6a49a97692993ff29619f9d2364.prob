@@ -1,0 +1,1 @@
+{"name":"Local: collab87","url":"f:\\Projects\\Problems\\collab87.cpp","tests":[{"id":1759482504081,"input":"3\naa\nab\nabab\n","output":"3\n2\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\collab87.cpp","group":"local","local":true}

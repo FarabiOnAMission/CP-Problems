@@ -1,0 +1,1 @@
+{"name":"Local: 29C","url":"f:\\Projects\\Problems\\29C.cpp","tests":[{"id":1759554139970,"input":"3\n3 1\n100 2\n3 2\n","output":""},{"id":1759554166049,"input":"2\n1 100\n100 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\29C.cpp","group":"local","local":true}

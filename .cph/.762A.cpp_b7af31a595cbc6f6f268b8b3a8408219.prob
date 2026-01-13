@@ -1,0 +1,1 @@
+{"name":"Local: 762A","url":"f:\\Projects\\Problems\\762A.cpp","tests":[{"id":1759568360094,"input":"4 2","output":"2"},{"id":1759568367911,"input":"5 3","output":"-1"},{"id":1759568371486,"input":"12 5","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\762A.cpp","group":"local","local":true}

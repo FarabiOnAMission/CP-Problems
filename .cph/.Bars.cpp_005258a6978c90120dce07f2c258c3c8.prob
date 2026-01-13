@@ -1,0 +1,1 @@
+{"name":"Local: Bars","url":"f:\\Projects\\Problems\\Bars.cpp","tests":[{"id":1759387321763,"input":"4\n25\n4\n10 12 5 7\n925\n10\n45 15 120 500 235 58 6 12 175 70\n120\n5\n25 25 25 25 25\n0\n2\n13 567","output":"NO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\Bars.cpp","group":"local","local":true}

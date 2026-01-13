@@ -1,0 +1,1 @@
+{"name":"Local: 1015A","url":"f:\\Projects\\Problems\\1015A.cpp","tests":[{"id":1761886590860,"input":"3 5\n2 2\n1 2\n5 5\n","output":"2\n3 4 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1015A.cpp","group":"local","local":true}

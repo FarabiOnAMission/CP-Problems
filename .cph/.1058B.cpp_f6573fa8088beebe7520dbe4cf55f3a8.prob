@@ -1,0 +1,1 @@
+{"name":"Local: 1058B","url":"f:\\Projects\\Problems\\1058B.cpp","tests":[{"id":1765804274623,"input":"7 2\n4\n2 4\n4 1\n6 3\n4 5\n","output":""},{"id":1765804840433,"input":"8 7\n4\n4 4\n2 8\n8 1\n6 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1058B.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: WatchingMoolo","url":"f:\\Projects\\Problems\\Greedy Algorithms\\WatchingMoolo.cpp","tests":[{"id":1754733032115,"input":"2 4\n7 9","output":"7"},{"id":1754733043336,"input":"2 3\n1 10","output":"8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\Greedy Algorithms\\WatchingMoolo.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 1060C","url":"f:\\Projects\\Problems\\1060C.cpp","tests":[{"id":1765980921856,"input":"3 3\n1 2 3\n1 2 3\n9\n","output":"4\n"},{"id":1765980935591,"input":"5 1\n5 4 2 4 5\n2\n5\n","output":"1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1060C.cpp","group":"local","local":true}
