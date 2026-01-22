@@ -1,0 +1,1 @@
+{"name":"Local: 808B","url":"f:\\Projects\\Problems\\808B.cpp","tests":[{"id":1768881270071,"input":"3 2\n3 4 7\n","output":""},{"id":1768881439134,"input":"8 2\n1 2 4 100000 123 456 789 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\808B.cpp","group":"local","local":true}
