@@ -1,0 +1,1 @@
+{"name":"Local: abc444_c","url":"f:\\Projects\\Problems\\abc444_c.cpp","tests":[{"id":1771087711371,"input":"3\n30 10 20\n","output":"111111111122222222223333333333\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\abc444_c.cpp","group":"local","local":true}

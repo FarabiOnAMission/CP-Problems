@@ -1,0 +1,1 @@
+{"name":"Local: 2197A","url":"f:\\Projects\\Problems\\2197A.cpp","tests":[{"id":1770822343787,"input":"3\n1\n18\n998244360\n","output":"0\n10\n10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\2197A.cpp","group":"local","local":true}

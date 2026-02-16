@@ -1,0 +1,1 @@
+{"name":"Local: 593","url":"f:\\Projects\\Problems\\USACOBronze\\593.cpp","tests":[{"id":1770715372898,"input":"6\nN 10\nE 2\nS 3\nW 4\nS 5\nE 8\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\USACOBronze\\593.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 568","url":"f:\\Projects\\Problems\\USACOBronze\\568.cpp","tests":[{"id":1770523515638,"input":"3 3\n40 75\n50 35\n10 45\n40 76\n20 30\n40 40\n","output":"5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\USACOBronze\\568.cpp","group":"local","local":true}
