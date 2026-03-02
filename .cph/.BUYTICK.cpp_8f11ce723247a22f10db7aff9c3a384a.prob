@@ -1,0 +1,1 @@
+{"name":"Local: BUYTICK","url":"f:\\Projects\\Problems\\BUYTICK.cpp","tests":[{"id":1772110569546,"input":"3\n4 3\n1 1 1 1\n0000\n4 3\n4 2 6 8\n1100\n4 3\n4 2 6 8\n0100","output":"3\n-1\n18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\BUYTICK.cpp","group":"local","local":true}

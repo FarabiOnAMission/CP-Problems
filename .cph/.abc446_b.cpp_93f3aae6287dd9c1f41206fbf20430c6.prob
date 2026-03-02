@@ -1,0 +1,1 @@
+{"name":"Local: abc446_b","url":"f:\\Projects\\Problems\\abc446_b.cpp","tests":[{"id":1771761070267,"input":"4 5\n3\n3 1 2\n3\n3 2 1\n2\n2 3\n4\n2 5 3 1\n","output":"3\n2\n0\n5\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\abc446_b.cpp","group":"local","local":true}

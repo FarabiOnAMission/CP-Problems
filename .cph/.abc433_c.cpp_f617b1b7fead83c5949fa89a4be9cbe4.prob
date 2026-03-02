@@ -1,0 +1,1 @@
+{"name":"Local: abc433_c","url":"f:\\Projects\\Problems\\abc433_c.cpp","tests":[{"id":1771590671307,"input":"1122\n","output":"2"},{"id":1771590679848,"input":"7788788\n","output":"3"},{"id":1771590689356,"input":"2025\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\abc433_c.cpp","group":"local","local":true}
