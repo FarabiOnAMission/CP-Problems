@@ -1,0 +1,1 @@
+{"name":"Local: RESELL","url":"f:\\Projects\\Problems\\RESELL.cpp","tests":[{"id":1773860188733,"input":"5\n2 1\n15 15\n2 1\n6 10\n2 2\n6 10\n5 3\n10 12 3 6 7\n2 2\n1 1","output":"15\r\n5\r\n6\r\n14\r\n0\r\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\RESELL.cpp","group":"local","local":true}
