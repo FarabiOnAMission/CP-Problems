@@ -1,0 +1,1 @@
+{"name":"Local: USACOShellGame","url":"f:\\Projects\\Problems\\USACOShellGame.cpp","tests":[{"id":1775794713519,"input":"3\n1 2 1\n3 2 1\n1 3 1","output":"2\r\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\USACOShellGame.cpp","group":"local","local":true}
