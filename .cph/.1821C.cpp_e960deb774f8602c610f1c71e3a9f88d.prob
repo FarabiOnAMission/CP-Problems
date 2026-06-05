@@ -1,0 +1,1 @@
+{"name":"Local: 1821C","url":"f:\\Projects\\Problems\\1821C.cpp","tests":[{"id":1780538507980,"input":"5\nabacaba\ncodeforces\noooooooo\nabcdef\nmewheniseearulhiiarul\n","output":"1\n3\n0\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1821C.cpp","group":"local","local":true}

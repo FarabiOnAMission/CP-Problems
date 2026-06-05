@@ -1,0 +1,1 @@
+{"name":"Local: 1491","url":"f:\\Projects\\Problems\\USACOBronze\\1491.cpp","tests":[{"id":1775885664615,"input":"4 5\n..#.\n##.#\n####\n..##\n1 3\n2 3\n4 3\n4 4\n4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\USACOBronze\\1491.cpp","group":"local","local":true}
