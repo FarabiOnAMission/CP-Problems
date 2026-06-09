@@ -1,0 +1,1 @@
+{"name":"Local: 2181H","url":"f:\\Projects\\Problems\\2181H.cpp","tests":[{"id":1780799478384,"input":"10 20 6\n40","output":"9 3 0\r\n"},{"id":1780799642404,"input":"1 1 1\n3","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\2181H.cpp","group":"local","local":true}

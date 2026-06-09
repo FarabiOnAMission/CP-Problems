@@ -1,0 +1,1 @@
+{"name":"Local: 1800B","url":"f:\\Projects\\Problems\\1800B.cpp","tests":[{"id":1780927563590,"input":"5\n11 2\naAaaBACacbE\n2 2\nab\n4 1\naaBB\n6 0\nabBAcC\n5 3\ncbccb\n","output":"5\r\n0\r\n1\r\n3\r\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1800B.cpp","group":"local","local":true}
