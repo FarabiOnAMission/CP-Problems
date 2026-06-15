@@ -1,0 +1,1 @@
+{"name":"Local: 1669E","url":"f:\\Projects\\Problems\\1669E.cpp","tests":[{"id":1781533871917,"input":"4\n6\nab\ncb\ndb\naa\ncc\nef\n7\naa\nbb\ncc\nac\nca\nbb\naa\n4\nkk\nkk\nab\nab\n5\njf\njf\njk\njk\njk\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\1669E.cpp","group":"local","local":true}

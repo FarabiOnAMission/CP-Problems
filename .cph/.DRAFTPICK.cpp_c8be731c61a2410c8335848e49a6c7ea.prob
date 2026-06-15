@@ -1,0 +1,1 @@
+{"name":"Local: DRAFTPICK","url":"f:\\Projects\\Problems\\DRAFTPICK.cpp","tests":[{"id":1781527622966,"input":"4\n2 2\n3 7\n5 3\n6 20","output":"2\n10\n3\n37"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\DRAFTPICK.cpp","group":"local","local":true}
