@@ -1,0 +1,1 @@
+{"name":"Local: VeryClose","url":"f:\\Projects\\Problems\\VeryClose.cpp","tests":[{"id":1782487633443,"input":"abc\nabb\n","output":"Close"},{"id":1782487650094,"input":"abc\nacb\n","output":"Not Close"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Projects\\Problems\\VeryClose.cpp","group":"local","local":true}
